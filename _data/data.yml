@@ -10,13 +10,9 @@ contact:
   location: ROUEN,France # location
   email: yaobing202402@sina.com    # email address
   phone: +33 0659922658 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: https://github.com/17662153280     # site URL without schema, like example.com, will automatically prepand "https://"
+  Github: https://github.com/17662153280     # site URL without schema, like example.com, will automatically prepand "https://"
+  Linkedin: https://www.linkedin.com/in/yaobing-yang-4995a8308/
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
-  nationality:             # nationality
-  visa:                    # passport visa
-  drivinglicense:          # driving licence
 
   # contact
   wechat:                  # username
