@@ -28,9 +28,6 @@ profile:
   order: 1
   title: Profile
   description: I am a passionate and innovative individual with a strong background in embedded artificial intelligence and data analysis. My goal is to become an expert in developing efficient, intelligent solutions that advance technology and solve real-world problems. I have a Bachelor's degree in Statistics and am currently pursuing a Master's degree in Embedded Artificial Intelligence. My experience includes working on projects such as embedded speech recognition systems, real-time image processing, and license plate recognition.|
-    
-
-   
 
 experiences:
   show: false
@@ -66,8 +63,6 @@ project:
   order: 3
   title: Projects
   description: 
-   
-
   items:
     - name: Speech recognition system based on spectrogram and local binary pattern
       link: '#'
@@ -88,7 +83,7 @@ project:
       description: Responsible for real-time image processing and object detection tasks, including algorithm optimization, 	performance optimization, and system integration to achieve high-precision and efficient object detection 	applications.
 
     - name: Licence plate recognition and flower recognition  
-      link: 
+      link: '#'
       tags:
       date: Oct2022 - Oct2022
       description: Through algorithm optimization, the accurate recognition of license plates and the detection of flowers are 	successfully realized.
@@ -101,8 +96,6 @@ skill:
     - name: Professional report production and dynamic presentation
 
     - name: Artificial Intelligence and Machine Learning: TensorFlow, Keras, PyTorch, OpenCV
-
-    - name: Group C Skills
 
     - name: Tools and Platforms: Git, Jupyter Notebook, Docker, Linux
 
@@ -120,7 +113,6 @@ education:
   order: 2
   title: Education
   description: 
-
   items:
     - institution: ESIGELEC
       link: 'https://www.esigelec.fr/fr'
@@ -137,7 +129,7 @@ education:
       description: Time series analysis, applied regression analysis, multiple regression analys,Sampling survey,Probability Theory and Mathematical Statistics,etc
 
 certificate:
-  show: false
+  show: true
   order: 4
   title: Certificates
   description:
@@ -301,7 +293,7 @@ interest:
   show: false
   order: 12
   title: Interests
-  description: |
+  description:
     The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
 
     Including an interest section in your resume can be helpful if your interests are relevant to the job you are applying for, such as if you are applying for a job in a creative field and your hobbies include painting or writing. It can also be useful if you are applying for a job where teamwork or social skills are important, and you can mention interests that demonstrate those qualities.
@@ -318,7 +310,7 @@ evaluation:
   show: false
   order: 13
   title: Self-evaluation
-  description: |
+  description:
     The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
 
     In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences that set you apart from other candidates. You can also mention areas where you are looking to improve or gain further experience.
@@ -329,7 +321,7 @@ reference:
   show: false
   order: 14
   title: References
-  description: |
+  description:
     A reference section in a resume is a list of individuals who can vouch for your skills, work ethic, and character. These individuals are typically former managers, colleagues, or mentors who have worked closely with you in the past and can provide insight into your abilities and work style.
 
     It's important to note that including a reference section in a resume is not always necessary, and some employers may prefer to request references separately. If you do choose to include a reference section, it should typically be located at the end of your resume.
