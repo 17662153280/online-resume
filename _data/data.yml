@@ -15,13 +15,13 @@ contact:
   wechat: 17662153280                  # username
   
   # programmer
-  github: https://github.com/17662153280              # username          | https://github.com/username
+  github: 17662153280              # username          | https://github.com/username
   
   # other cv
-  linkedin: https://www.linkedin.com/in/yaobing-yang-4995a8308/      # username          | https://linkedin.com/in/username
+  linkedin: yaobing-yang-4995a8308/      # username          | https://linkedin.com/in/username
   
   # social media
-  youtube: https://www.youtube.com/@108NBqfnu                 # username          | https://www.youtube.com/@username
+  youtube: 108NBqfnu                 # username          | https://www.youtube.com/@username
 
 profile:
   show: true
@@ -66,80 +66,57 @@ project:
   order: 3
   title: Projects
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
+   
 
   items:
-    - name: Personal project
+    - name: Speech recognition system based on spectrogram and local binary pattern
       link: '#'
       tags:
-      date: 2015 - 2017
-      description: |
-        Personal project description...
-        + First
-        + Second
+      date: May2024 - Jun2024
+      description: The recorded audio signal is converted into a spectrogram and the Local Binary Patterns (LBP) feature extraction method is applied to achieve accurate recognition of the speech signal.
 
-    - name: OSS project
+    - name: DJI robomaster 
       link:
-      tags: committer
-      date:
-      description: |
-        OSS project description...
-        + First
-        + Second
+      tags:
+      date: Mar2024 - May2024
+      description: Based on the DJI Robomaster platform, we developed an intelligent robot car with obstacle avoidance, human tracking and grasping functions. By integrating Mediapipe human posture recognition technology and PID controller, we achieved precise control of the robot car.
+      
+    - name: Real-time image processing and target detection  
+      link:
+      tags:
+      date: Jun2023 - Oct2023
+      description: Responsible for real-time image processing and object detection tasks, including algorithm optimization, 	performance optimization, and system integration to achieve high-precision and efficient object detection 	applications.
 
+    - name: Licence plate recognition and flower recognition  
+      link:
+      tags:
+      date: Oct2022 - Oct2022
+      description: Through algorithm optimization, the accurate recognition of license plates and the detection of flowers are 	successfully realized.
 skill:
   show: true
-  order: 4
+  order: 5
   title: Skills
-  description: |
-    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
+  description: 
+    
 
-    The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
-
-    When crafting your skills section, it's important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.
-
-    There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
-
-  items:
-    - name: Skill A
-      level: 5
-    - name: Skill B
-      level: 4
-    - name: Skill C
-      level: 3
-    - name: Skill D
-      level: 4
-    - name: Skill E
-      level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
-      level: 3
 
   groups:
-    - name: Group A Skills
-      item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
-      item:
-        - Skill E
-        - Skill F
-        - Skill G
+    - name: Professional report production and dynamic presentation
+
+    - name: Artificial Intelligence and Machine Learning: TensorFlow, Keras, PyTorch, OpenCV
+
     - name: Group C Skills
-      item:
-        - Skill H
-        - Skill I
+
+    - name: Tools and Platforms: Git, Jupyter Notebook, Docker, Linux
+
+    - name: Programming languages: c/c++, Python,R
+
+    - name: Beaglebone, Arduino, Raspberry Pi, Texas InstrumentsMSP430
+
+    - name: Hardware design: PCB design, LabVIEW
+
+    - name: Data analysis and Data visualisation
+
 
 education:
   show: true
@@ -149,14 +126,14 @@ education:
 
   items:
     - institution: ESIGELEC
-      link: '#'
+      link: 'https://www.esigelec.fr/fr'
       date: 2023 - 2024
       major: Embedded artificial intelligence 
       degree: Master
       description: Virtual Instrumentation, Embedded C Programming, Project Managemen,Smart sensors,Embedded Linux,Specific Instrumentation
 
     - institution: Qufu Normal University
-      link: '#'
+      link: 'https://www.qfnu.edu.cn/'
       date: 2019 - 2023
       major: Statistics 
       degree: Bachelor
@@ -164,30 +141,68 @@ education:
 
 certificate:
   show: false
-  order: 6
+  order: 4
   title: Certificates
-  description: |
-    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
-
-    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
-
-    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
-
-    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
-
+  description:
   items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
-      link: '#'
-      description: |
-        It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
-      date: 2020
-      link:
-      description: |
-        It's my Example Certificate Two by Example.
+    - name: Project Management Foundations
+      issuer: Linkedin
+      date: 2024
+      link: 'https://www.linkedin.com/learning/certificates/b383f6d32dfd15011b6d4eab646f6b60375f81e8b17cdead0afe8ae700a55d0d'
+      description: 
+        
+    - name: Learning Generative AI and Prompt Engineering
+      issuer: Linkedin
+      date: 2024
+      link: 'https://www.linkedin.com/learning/certificates/883de2752996835abaa224b04df8ec40d6b49bdcff70c0f4a27abb6a6c695db2'
+      description: 
+
+    - name: AI drives productivity: Reshaping everyday work and careers
+      issuer: Linkedin
+      date: 2024
+      link: 'https://www.linkedin.com/learning/certificates/df214de97e82b839dccd7b272669a83bb563bbd56fceb42cd6ca189811caa25d'
+      description: 
+
+    - name: What is Generative AI
+      issuer: Linkedin
+      date: 2024
+      link: 'https://www.linkedin.com/learning/certificates/98295c3b8fcd2815b21cd6c41afa6043a6576e289c8250bc5fd690ebea0b4080'
+      description: 
+      
+    - name: Optimize your work with Microsoft 365
+      issuer: Linkedin
+      date: 2024
+      link: 'https://www.linkedin.com/learning/certificates/e55d9e866198ab7ec8b01c83781489cfdcf9382b6cdacdd87b8eb4a8f7d9ebea'
+      description: 
+      
+    - name: Collaborate with Microsoft 365
+      issuer: Linkedin
+      date: 2024
+      link: 'https://www.linkedin.com/learning/certificates/82c8fca1856ce3a66057e0c0a82f84813094a1dade07cbc2267407e93ff8db73'
+      description: 
+      
+    - name: Manage projects with Microsoft 365
+      issuer: Linkedin
+      date: 2024
+      link: 'https://www.linkedin.com/learning/certificates/918fec1a97f401d9ac70de55a02208023fee9b9bd6df1614df878721069f85d1'
+      description: 
+
+    - name: Basic knowledge of data analysis professional skills
+      issuer: Linkedin
+      date: 2024
+      link: 'https://www.linkedin.com/learning/certificates/d537c9713603191ff5452cd8b0a6c1d248ae05def3439197832293227344e5c5'
+      description: 
+      
+    - name: Generative AI and Creative Content: Opportunities, Problems, and Ethics
+      issuer: Linkedin
+      date: 2024
+      link: 'https://www.linkedin.com/learning/certificates/6273042bf1de631c355682c15ed509cb89c1a48e5969b1ec1c9064b2b1dcb30f'
+      description: 
+
+
+
+
+      
 
 publication:
   show: false
@@ -276,16 +291,14 @@ language:
   show: true
   order: 11
   title: Languages
-  description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
-
+  description: 
   items:
     - idiom: Chinese
       level: Native
     - idiom: English
       level: Professional
+    - idiom: French
+    - level: fundation
 
 interest:
   show: false
