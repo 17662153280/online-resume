@@ -65,7 +65,7 @@ project:
   show: true
   order: 3
   title: Projects
-  description: |
+  description: 
    
 
   items:
@@ -76,19 +76,19 @@ project:
       description: The recorded audio signal is converted into a spectrogram and the Local Binary Patterns (LBP) feature extraction method is applied to achieve accurate recognition of the speech signal.
 
     - name: DJI robomaster 
-      link:
+      link: '#'
       tags:
       date: Mar2024 - May2024
       description: Based on the DJI Robomaster platform, we developed an intelligent robot car with obstacle avoidance, human tracking and grasping functions. By integrating Mediapipe human posture recognition technology and PID controller, we achieved precise control of the robot car.
       
     - name: Real-time image processing and target detection  
-      link:
+      link: '#'
       tags:
       date: Jun2023 - Oct2023
       description: Responsible for real-time image processing and object detection tasks, including algorithm optimization, 	performance optimization, and system integration to achieve high-precision and efficient object detection 	applications.
 
     - name: Licence plate recognition and flower recognition  
-      link:
+      link: 
       tags:
       date: Oct2022 - Oct2022
       description: Through algorithm optimization, the accurate recognition of license plates and the detection of flowers are 	successfully realized.
@@ -97,13 +97,10 @@ skill:
   order: 5
   title: Skills
   description: 
-    
-
-
   groups:
     - name: Professional report production and dynamic presentation
 
-    - name: Artificial Intelligence and Machine Learning: TensorFlow, Keras, PyTorch, OpenCV
+    - name: Artificial Intelligence and Machine Learning: TensorFlow, Keras, PyTorch, OpenCV
 
     - name: Group C Skills
 
