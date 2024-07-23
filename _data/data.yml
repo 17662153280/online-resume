@@ -71,7 +71,7 @@ project:
       description: The recorded audio signal is converted into a spectrogram and the Local Binary Patterns (LBP) feature extraction method is applied to achieve accurate recognition of the speech signal.
 
     - name: DJI robomaster 
-      link: '#'
+      link: 'https://github.com/17662153280/DJI-Robomaster'
       tags:
       date: Mar2024 - May2024
       description: Based on the DJI Robomaster platform, we developed an intelligent robot car with obstacle avoidance, human tracking and grasping functions. By integrating Mediapipe human posture recognition technology and PID controller, we achieved precise control of the robot car.
