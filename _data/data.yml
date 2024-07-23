@@ -94,13 +94,20 @@ skill:
   title: Skills
   description:
   items:
-    - title: Professional report production and dynamic presentation.
-    - title: Artificial Intelligence and Machine Learning-TensorFlow,Keras,PyTorch,OpenCV.  
-    - title: Tools and Platforms-Git,Jupyter Notebook,Docker,Linux.   
+    - name: Professional report production and dynamic presentation.
+      level: 5
+    - name: Artificial Intelligence and Machine Learning-TensorFlow,Keras,PyTorch,OpenCV. 
+      level: 4
+    - name: Tools and Platforms-Git,Jupyter Notebook,Docker,Linux.   
+      level: 3.5
     - name: Programming languages-c/c++, Python,R.
+      level: 3.5
     - name: Beaglebone,Arduino,Raspberry Pi,Texas InstrumentsMSP430.   
-    - name: Hardware design-PCB design,LabVIEW. 
+      level: 3.5
+    - name: Hardware design-PCB design,LabVIEW.
+      level: 3
     - name: Data analysis and Data visualisation.
+      level: 4
 
   
   
