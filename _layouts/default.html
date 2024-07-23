@@ -6,17 +6,5 @@
 
   <body>
     {{ content }}
-
-
-    {% if site.skill.show %}
-    <section id="skills">
-      <h2>{{ site.skill.title }}</h2>
-      <ul>
-        {% for item in site.skill.items %}
-        <li>{{ item.name }}</li>
-        {% endfor %}
-      </ul>
-    </section>
-    {% endif %}
   </body>
 </html>
