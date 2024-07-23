@@ -92,28 +92,23 @@ skill:
   order: 5
   description:
   items:
-  
-  groups:
-    - name: Professional report production and dynamic presentation.
-      item:
+    -name: Professional report production and dynamic presentation.
       
-    - name: Artificial Intelligence and Machine Learning-TensorFlow,Keras,PyTorch,OpenCV.
-      item:
+    -name: Artificial Intelligence and Machine Learning-TensorFlow,Keras,PyTorch,OpenCV.
        
-    - name: Tools and Platforms-Git,Jupyter Notebook,Docker,Linux.
-      item:
+    -name: Tools and Platforms-Git,Jupyter Notebook,Docker,Linux.
        
-    - name: Programming languages-c/c++, Python,R.
-      item:
+    -name: Programming languages-c/c++, Python,R.
+  
+    -name: Beaglebone,Arduino,Raspberry Pi,Texas InstrumentsMSP430.
        
-    - name: Beaglebone,Arduino,Raspberry Pi,Texas InstrumentsMSP430.
-      item:
+    -name: Hardware design-PCB design,LabVIEW.
        
-    - name: Hardware design-PCB design,LabVIEW.
-      item:
-       
-    - name: Data analysis and Data visualisation.
-      item:
+    -name: Data analysis and Data visualisation.
+
+  
+  
+  
 
 
 education:
