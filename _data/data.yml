@@ -90,7 +90,9 @@ project:
 skill:
   show: true
   order: 5
-  description: 
+  description:
+  items:
+  
   groups:
     - name: Professional report production and dynamic presentation.
       item:
@@ -110,7 +112,7 @@ skill:
     - name: Hardware design-PCB design,LabVIEW.
       item:
        
-    - name: DataanalysisandDatavisualisation.
+    - name: Data analysis and Data visualisation.
       item:
 
 
@@ -293,7 +295,7 @@ language:
     - idiom: English
       level: Professional
     - idiom: French
-    - level: fundation
+    - level: Fundation
 
 interest:
   show: false
