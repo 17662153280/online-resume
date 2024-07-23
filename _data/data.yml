@@ -90,7 +90,6 @@ project:
 skill:
   show: true
   order: 5
-  title: Skills
   description: 
   groups:
     - name: Professional report production and dynamic presentation.
