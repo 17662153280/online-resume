@@ -87,7 +87,8 @@ project:
       tags:
       date: Oct2022 - Oct2022
       description: Through algorithm optimization, the accurate recognition of license plates and the detection of flowers are 	successfully realized.
-skill:
+      
+project:
   show: true
   order: 5
   title: skills
