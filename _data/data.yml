@@ -93,19 +93,13 @@ skill:
   title: Skills
   description: 
   groups:
-    - name: Professional report production and dynamic presentation
-
-    - name: Artificial Intelligence and Machine Learning-TensorFlow, Keras, PyTorch, OpenCV
-
-    - name: Tools and Platforms-Git, Jupyter Notebook, Docker, Linux
-
-    - name: Programming languages-c/c++, Python,R
-
-    - name: Beaglebone, Arduino, Raspberry Pi, Texas InstrumentsMSP430
-
-    - name: Hardware design-PCB design, LabVIEW
-
-    - name: Data analysis and Data visualisation
+    - name: Professional report production and dynamic presentation.
+    - name: Artificial Intelligence and Machine Learning-TensorFlow, Keras, PyTorch, OpenCV.
+    - name: Tools and Platforms-Git, Jupyter Notebook, Docker, Linux.
+    - name: Programming languages-c/c++, Python,R.
+    - name: Beaglebone, Arduino, Raspberry Pi, Texas InstrumentsMSP430.
+    - name: Hardware design-PCB design, LabVIEW.
+    - name: Data analysis and Data visualisation.
 
 
 education:
