@@ -65,7 +65,7 @@ project:
   description: 
   items:
     - name: Building a comment recognition model and building a web page
-      link: '#'
+      link: 'https://github.com/17662153280/shibie'
       tags: 
       date: Jun2024 - Jul2024
       description: This is a sentiment analysis model based on deep learning. It uses LSTM network to train the IMDB movie review dataset to achieve sentiment classification of reviews. And there is a simple web page for interaction. Users can enter comments to get sentiment classification.
