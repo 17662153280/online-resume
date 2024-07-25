@@ -64,11 +64,20 @@ project:
   title: 项目
   description: 
   items:
+    - name: 基于LSTM网络的情感分类和交互式网页构建
+      link: 'https://github.com/17662153280/shibie'
+      tags:
+      date: 2024.06 - 2024.07
+      description: 这是一个基于深度学习的情感分析模型，使用LSTM网络对IMDB电影评论数据集进行训练，实现评论的情感分类。并且有一个简单的网页可以用来交互。用户可以输入评论来获得情感分类。
+
+
+    
     - name: 基于频谱图和局部二值模式的语音识别系统
       link: '#'
       tags:
       date: 2024.05 - 2024.06
       description: 我将录制的音频信号转换为频谱图，并应用局部二元模式（LBP）特征提取方法实现对语音信号的准确识别。
+      
     - name: DJI robomaster 
       link: 'https://github.com/17662153280/DJI-Robomaster'
       tags:
